@@ -1,0 +1,14 @@
+title: I made a wordsearch!
+author: Unicorn Cupcake
+type: wordsearch
+rows: 20
+cols: 20
+pages:
+  - name: Fruity Fun
+    words: [apple, orange, banana, grapes, kiwi, strawberry, watermelon, lemon, lime]
+
+  - name: Animal Mayhem
+    words: [dog, cat, fish, wolf, horse, shark, crocodile, alligator, iguana]
+
+  - name: Searchin in the USA
+    words: "`state.name`"
